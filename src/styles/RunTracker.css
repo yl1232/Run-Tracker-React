@@ -1,0 +1,37 @@
+.run-tracker {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(248, 248, 255);
+}
+
+#add-new-record {
+    margin-left: 40px;
+    width: 170px;
+}
+
+#reports {
+    margin-left: 40px;
+    width: 180px;
+}
+
+#training {
+    margin-left: 40px;
+    width: 180px;
+}
+
+#menu-buttons {
+    padding-bottom: 50px;
+    padding-top: 25px;
+}
+
+#run-records-container {
+    float: left;
+    width: 50%;
+}
+
+#statistics-container {
+    margin-left: 50%;
+}
+
+.clear-fix {
+    clear: both;
+}
