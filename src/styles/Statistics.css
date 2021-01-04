@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Krub:wght@200&family=Oswald:wght@300&display=swap');
+
+#statistics-title {
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: 'Krub', sans-serif;
+}
+
+#statistics-data {
+    text-align: center;
+}
+
+#chart {
+    background: transparent;
+    width: 750px;
+}
